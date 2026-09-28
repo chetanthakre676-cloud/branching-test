@@ -1,2 +1,2 @@
 # branching-test
-print
+print("hello world")
